@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VXCwvGCUFJZyY/y2GVVvRcwHNEP5OA0lE5xtUbu2tCvYMNh0RiZcg/WKv2bco3F3RESYJ4vdweDgs/HXnZ9EKg==",
+  "success": true,
+  "projectFilePath": "C:\\Sudheer\\Personal\\Repos\\CarvedRock.Docker\\CarvedRock.API\\CarvedRock.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\SudheerKumarKunuthur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
